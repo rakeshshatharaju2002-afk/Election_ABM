@@ -1,0 +1,218 @@
+ons_id,constituency_name,region_name,country_name,party_abbreviation,result,winning_party,previous_party,seat_changed_hands
+S14000062,Aberdeenshire North and Moray East,Scotland,Scotland,Con,SNP gain from Con,SNP,Con,True
+S14000063,Airdrie and Shotts,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001063,Aldershot,South East,England,Con,Lab gain from Con,Lab,Con,True
+S14000064,Alloa and Grangemouth,Scotland,Scotland,Alba,Lab gain from SNP,Lab,Alba,True
+S14000064,Alloa and Grangemouth,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001066,Amber Valley,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001069,Ashford,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001071,Aylesbury,South East,England,Con,Lab gain from Con,Lab,Con,True
+S14000107,"Ayr, Carrick and Cumnock",Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001072,Banbury,South East,England,Con,Lab gain from Con,Lab,Con,True
+W07000083,Bangor Aberconwy,Wales,Wales,Con,Lab gain from Con,Lab,Con,True
+E14001076,Barrow and Furness,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001078,Basingstoke,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001079,Bassetlaw,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+S14000068,Bathgate and Linlithgow,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001097,Birmingham Northfield,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001098,Birmingham Perry Barr,West Midlands,England,Lab,Ind gain from Lab,Ind,Lab,True
+E14001102,Blackburn,North West,England,Lab,Ind gain from Lab,Ind,Lab,True
+E14001104,Blackpool North and Fleetwood,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001109,Bolsover,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001112,Bolton West,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001114,Boston and Skegness,East Midlands,England,Con,RUK gain from Con,RUK,Con,True
+E14001115,Bournemouth East,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001116,Bournemouth West,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001117,Bracknell,South East,England,Con,Lab gain from Con,Lab,Con,True
+W07000085,"Brecon, Radnor and Cwm Tawe",Wales,Wales,Con,LD gain from Con,LD,Con,True
+E14001131,Bristol Central,South West,England,Lab,Green gain from Lab,Green,Lab,True
+E14001140,Broxtowe,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001141,Buckingham and Bletchley,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001142,Burnley,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001143,Burton and Uttoxeter,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001144,Bury North,North West,England,Con,Lab gain from Con,Lab,Con,True
+W07000087,Caerfyrddin,Wales,Wales,Con,PC gain from Con,PC,Con,True
+E14001150,Cannock Chase,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001152,Carlisle,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001153,Carshalton and Wallington,London,England,Con,LD gain from Con,LD,Con,True
+E14001158,Cheadle,North West,England,Con,LD gain from Con,LD,Con,True
+E14001159,Chelmsford,East of England,England,Con,LD gain from Con,LD,Con,True
+E14001160,Chelsea and Fulham,London,England,Con,Lab gain from Con,Lab,Con,True
+E14001161,Cheltenham,South West,England,Con,LD gain from Con,LD,Con,True
+E14001166,Chichester,South East,England,Con,LD gain from Con,LD,Con,True
+E14001169,Chipping Barnet,London,England,Con,Lab gain from Con,Lab,Con,True
+E14001174,Clacton,East of England,England,Con,RUK gain from Con,RUK,Con,True
+W07000094,Clwyd East,Wales,Wales,Con,Lab gain from Con,Lab,Con,True
+W07000094,Clwyd East,Wales,Wales,Ind,Lab gain from Con,Lab,Ind,True
+S14000070,Coatbridge and Bellshill,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001177,Colne Valley,Yorkshire and The Humber,England,Con,Lab gain from Con,Lab,Con,True
+E14001178,Congleton,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001179,Corby and East Northamptonshire,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+S14000071,Cowdenbeath and Kirkcaldy,Scotland,Scotland,Alba,Lab gain from SNP,Lab,Alba,True
+E14001183,Cramlington and Killingworth,North East,England,Con,Lab hold,Lab,Con,False
+S14000072,Cumbernauld and Kirkintilloch,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001190,Darlington,North East,England,Con,Lab gain from Con,Lab,Con,True
+E14001191,Dartford,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001193,Derby North,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001195,Derbyshire Dales,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001197,Didcot and Wantage,South East,England,Con,LD gain from Con,LD,Con,True
+E14001199,Doncaster East and the Isle of Axholme,Yorkshire and The Humber,England,Con,Lab gain from Con,Lab,Con,True
+E14001204,Dudley,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001206,Dunstable and Leighton Buzzard,East of England,England,Con,Lab gain from Con,Lab,Con,True
+S14000021,East Renfrewshire,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001219,Eastbourne,South East,England,Con,LD gain from Con,LD,Con,True
+S14000078,Edinburgh East and Musselburgh,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+S14000079,Edinburgh North and Leith,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+S14000081,Edinburgh South West,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001224,Ely and East Cambridgeshire,East of England,England,Con,LD gain from Con,LD,Con,True
+E14001228,Erewash,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001237,Filton and Bradley Stoke,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001239,Folkestone and Hythe,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001240,Forest of Dean,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001245,Gedling,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001246,Gillingham and Rainham,South East,England,Con,Lab gain from Con,Lab,Con,True
+S14000084,Glasgow East,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+S14000085,Glasgow North,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+S14000086,Glasgow North East,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+S14000087,Glasgow South,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+S14000088,Glasgow South West,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+S14000089,Glasgow West,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001248,Gloucester,South West,England,Con,Lab gain from Con,Lab,Con,True
+S14000091,Gordon and Buchan,Scotland,Scotland,SNP,Con hold,Con,SNP,False
+E14001254,Gravesham,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001255,Great Grimsby and Cleethorpes,Yorkshire and The Humber,England,Con,Lab gain from Con,Lab,Con,True
+E14001258,Guildford,South East,England,Con,LD gain from Con,LD,Con,True
+E14001261,Halesowen,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001269,Harrogate and Knaresborough,Yorkshire and The Humber,England,Con,LD gain from Con,LD,Con,True
+E14001272,Hartlepool,North East,England,Con,Lab hold,Lab,Con,False
+E14001274,Hastings and Rye,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001283,Hertford and Stortford,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001285,Hexham,North East,England,Con,Lab gain from Con,Lab,Con,True
+E14001287,High Peak,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001289,Hitchin,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001291,Honiton and Sidmouth,South West,England,Con,LD gain from Con,LD,Con,True
+E14001294,Horsham,South East,England,Con,LD gain from Con,LD,Con,True
+E14001299,Hyndburn,North West,England,Con,Lab gain from Con,Lab,Con,True
+S14000093,Inverclyde and Renfrewshire West,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001302,Ipswich,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001304,Isle of Wight West,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001310,Kensington and Bayswater,London,England,Con,Lab hold,Lab,Con,False
+E14001311,Kettering,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+S14000110,Kilmarnock and Loudoun,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001324,Leeds South West and Morley,Yorkshire and The Humber,England,Con,Lab gain from Con,Lab,Con,True
+E14001326,Leicester East,East Midlands,England,Ind,Con gain from Lab,Con,Ind,True
+E14001327,Leicester South,East Midlands,England,Lab,Ind gain from Lab,Ind,Lab,True
+E14001330,Lewes,South East,England,Con,LD gain from Con,LD,Con,True
+E14001335,Lichfield,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001336,Lincoln,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+S14000095,Livingston,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001342,Loughborough,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001344,Lowestoft,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001347,Macclesfield,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001355,Mansfield,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001356,Melksham and Devizes,South West,England,Con,LD gain from Con,LD,Con,True
+W07000100,Mid and South Pembrokeshire,Wales,Wales,Con,Lab gain from Con,Lab,Con,True
+E14001363,Mid Dorset and North Poole,South West,England,Con,LD gain from Con,LD,Con,True
+S14000097,Mid Dunbartonshire,Scotland,Scotland,SNP,LD gain from SNP,LD,SNP,True
+E14001368,Middlesbrough South and East Cleveland,North East,England,Con,Lab gain from Con,Lab,Con,True
+S14000045,Midlothian,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001370,Milton Keynes North,South East,England,Con,Lab gain from Con,Lab,Con,True
+W07000101,Monmouthshire,Wales,Wales,Con,Lab gain from Con,Lab,Con,True
+W07000102,Montgomeryshire and Glyndwr,Wales,Wales,Con,Lab gain from Con,Lab,Con,True
+E14001372,Morecambe and Lunesdale,North West,England,Con,Lab gain from Con,Lab,Con,True
+S14000099,"Motherwell, Wishaw and Carluke",Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+S14000027,Na h-Eileanan an Iar,Scotland,Scotland,Ind,Lab gain from SNP,Lab,Ind,True
+E14001376,Newbury,South East,England,Con,LD gain from Con,LD,Con,True
+E14001381,Newton Abbot,South West,England,Con,LD gain from Con,LD,Con,True
+E14001382,Newton Aycliffe and Spennymoor,North East,England,Con,Lab gain from Con,Lab,Con,True
+N05000012,North Antrim,Northern Ireland,Northern Ireland,DUP,TUV gain from DUP,TUV,DUP,True
+S14000048,North Ayrshire and Arran,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001385,North Cornwall,South West,England,Con,LD gain from Con,LD,Con,True
+E14001387,North Devon,South West,England,Con,LD gain from Con,LD,Con,True
+N05000013,North Down,Northern Ireland,Northern Ireland,Alliance,Ind gain from Alliance,Ind,Alliance,True
+E14001391,North East Derbyshire,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001392,North East Hampshire,South East,England,Con,LD gain from Con,LD,Con,True
+E14001394,North East Somerset and Hanham,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001395,North Herefordshire,West Midlands,England,Con,Green gain from Con,Green,Con,True
+E14001396,North Norfolk,East of England,England,Con,LD gain from Con,LD,Con,True
+E14001397,North Northumberland,North East,England,Con,Lab gain from Con,Lab,Con,True
+E14001398,North Shropshire,West Midlands,England,Con,LD gain from Con,LD,Con,True
+E14001399,North Somerset,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001400,North Warwickshire and Bedworth,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001401,North West Cambridgeshire,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001404,North West Leicestershire,East Midlands,England,Ind,Lab gain from Con,Lab,Ind,True
+E14001407,Northampton South,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001413,Nuneaton,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001418,Ossett and Denby Dale,Yorkshire and The Humber,England,Con,Lab gain from Con,Lab,Con,True
+S14000101,Paisley and Renfrewshire North,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001422,Pendle and Clitheroe,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001423,Penistone and Stocksbridge,Yorkshire and The Humber,England,Con,Lab gain from Con,Lab,Con,True
+E14001424,Penrith and Solway,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001425,Peterborough,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001426,Plymouth Moor View,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001429,Poole,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001431,Portsmouth North,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001440,Redcar,North East,England,Con,Lab gain from Con,Lab,Con,True
+E14001441,Redditch,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001443,Ribble Valley,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001446,Rochdale,North West,England,WPB,Lab hold,Lab,WPB,False
+E14001447,Rochester and Strood,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001450,Rossendale and Darwen,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001451,Rother Valley,Yorkshire and The Humber,England,Con,Lab gain from Con,Lab,Con,True
+E14001457,Rushcliffe,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001462,Scunthorpe,Yorkshire and The Humber,England,Con,Lab gain from Con,Lab,Con,True
+E14001471,Sherwood Forest,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001472,Shipley,Yorkshire and The Humber,England,Con,Lab gain from Con,Lab,Con,True
+E14001473,Shrewsbury,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001479,Solihull West and Shirley,West Midlands,England,Ind,Con hold,Con,Ind,False
+N05000014,South Antrim,Northern Ireland,Northern Ireland,DUP,UUP gain from DUP,UUP,DUP,True
+E14001480,South Basildon and East Thurrock,East of England,England,Con,RUK gain from Con,RUK,Con,True
+E14001482,South Cotswolds,South West,England,Con,LD gain from Con,LD,Con,True
+E14001483,South Derbyshire,East Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001484,South Devon,South West,England,Con,LD gain from Con,LD,Con,True
+E14001485,South Dorset,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001486,South East Cornwall,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001491,South Ribble,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001497,South West Norfolk,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001502,Southend West and Leigh,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001504,Southport,North West,England,Con,Lab gain from Con,Lab,Con,True
+E14001508,St Austell and Newquay,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001511,St Ives,South West,England,Con,LD gain from Con,LD,Con,True
+E14001512,St Neots and Mid Cambridgeshire,East of England,England,Con,LD gain from Con,LD,Con,True
+E14001513,Stafford,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+S14000105,Stirling and Strathallan,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001521,Stoke-on-Trent North,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001522,Stoke-on-Trent South,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001524,Stourbridge,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001526,Stratford-on-Avon,West Midlands,England,Con,LD gain from Con,LD,Con,True
+E14001529,Stroud,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001530,Suffolk Coastal,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001536,Swindon North,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001537,Swindon South,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001538,Tamworth,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001540,Taunton and Wellington,South West,England,Con,LD gain from Con,LD,Con,True
+E14001542,Tewkesbury,South West,England,Con,LD gain from Con,LD,Con,True
+E14001545,Thornbury and Yate,South West,England,Con,LD gain from Con,LD,Con,True
+E14001546,Thurrock,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001547,Tipton and Wednesbury,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001548,Tiverton and Minehead,South West,England,Con,LD gain from Con,LD,Con,True
+E14001551,Torbay,South West,England,Con,LD gain from Con,LD,Con,True
+E14001554,Truro and Falmouth,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001558,Uxbridge and South Ruislip,London,England,Con,Lab gain from Con,Lab,Con,True
+W07000110,Vale of Glamorgan,Wales,Wales,Con,Lab gain from Con,Lab,Con,True
+E14001565,Warrington South,North West,England,Con,Lab hold,Lab,Con,False
+E14001568,Watford,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001573,Welwyn Hatfield,East of England,England,Con,Lab gain from Con,Lab,Con,True
+E14001575,West Dorset,South West,England,Con,LD gain from Con,LD,Con,True
+S14000106,West Dunbartonshire,Scotland,Scotland,SNP,Lab gain from SNP,Lab,SNP,True
+E14001581,Weston-super-Mare,South West,England,Con,Lab gain from Con,Lab,Con,True
+E14001587,Winchester,South East,England,Con,LD gain from Con,LD,Con,True
+E14001591,Witney,South East,England,Con,LD gain from Con,LD,Con,True
+E14001592,Woking,South East,England,Con,LD gain from Con,LD,Con,True
+E14001594,Wolverhampton North East,West Midlands,England,Con,Lab gain from Con,Lab,Con,True
+E14001599,Worthing West,South East,England,Con,Lab gain from Con,Lab,Con,True
+W07000111,Wrexham,Wales,Wales,Con,Lab gain from Con,Lab,Con,True
+E14001600,Wycombe,South East,England,Con,Lab gain from Con,Lab,Con,True
+E14001603,Yeovil,South West,England,Con,LD gain from Con,LD,Con,True
+W07000112,Ynys Mon,Wales,Wales,Con,PC gain from Con,PC,Con,True
+E14001605,York Outer,Yorkshire and The Humber,England,Con,Lab gain from Con,Lab,Con,True
